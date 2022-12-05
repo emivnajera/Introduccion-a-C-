@@ -1,0 +1,14 @@
+C:\Users\emive\source\repos\IntroduccionC#\For\For\bin\Debug\netcoreapp3.1\For.exe
+C:\Users\emive\source\repos\IntroduccionC#\For\For\bin\Debug\netcoreapp3.1\For.deps.json
+C:\Users\emive\source\repos\IntroduccionC#\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+C:\Users\emive\source\repos\IntroduccionC#\For\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+C:\Users\emive\source\repos\IntroduccionC#\For\For\bin\Debug\netcoreapp3.1\For.dll
+C:\Users\emive\source\repos\IntroduccionC#\For\For\bin\Debug\netcoreapp3.1\For.pdb
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.csproj.AssemblyReference.cache
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.csproj.CoreCompileInputs.cache
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.dll
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.pdb
+C:\Users\emive\source\repos\IntroduccionC#\For\For\obj\Debug\netcoreapp3.1\For.genruntimeconfig.cache
