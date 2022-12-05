@@ -1,0 +1,14 @@
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.csproj.AssemblyReference.cache
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.AssemblyInfoInputs.cache
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.AssemblyInfo.cs
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.csproj.CoreCompileInputs.cache
+C:\Users\emive\source\repos\IntroduccionC#\If\If\bin\Debug\netcoreapp3.1\If.exe
+C:\Users\emive\source\repos\IntroduccionC#\If\If\bin\Debug\netcoreapp3.1\If.deps.json
+C:\Users\emive\source\repos\IntroduccionC#\If\If\bin\Debug\netcoreapp3.1\If.runtimeconfig.json
+C:\Users\emive\source\repos\IntroduccionC#\If\If\bin\Debug\netcoreapp3.1\If.runtimeconfig.dev.json
+C:\Users\emive\source\repos\IntroduccionC#\If\If\bin\Debug\netcoreapp3.1\If.dll
+C:\Users\emive\source\repos\IntroduccionC#\If\If\bin\Debug\netcoreapp3.1\If.pdb
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.dll
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.pdb
+C:\Users\emive\source\repos\IntroduccionC#\If\If\obj\Debug\netcoreapp3.1\If.genruntimeconfig.cache
